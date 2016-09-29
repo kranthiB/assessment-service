@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: assessmentService
+  data:
+    mongodb:
+      uri: mongodb://hello:hello123@ds035826.mlab.com:35826/assessmentdb
+
+server:
+  port: 8874
